@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:29.400102
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:28
 #+TITLE: 大明太宗文皇帝御製文殊讚
 #+PROPERTY: CBETA_ID G083n2073
 #+PROPERTY: ID KR6s0066
 #+PROPERTY: SOURCE Fojiao Canon Vol. 083, No. 2073
 #+PROPERTY: VOL 083
 #+PROPERTY: BASEEDITION G
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0066_G_000-0006a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0066_G_001-0006a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
-
- 大明太宗文皇帝御製文殊讚¶
+大明太宗文皇帝御製文殊讚¶
 
 #+BEGIN_VERSE
 「　三名微密含多義
@@ -73,6 +72,5 @@
 　發啟如是妙菩提
 　一字遍包一切義
 　成就無始與無盡
-　永成佛道賴慈津
+　永成佛道賴慈津」
 #+END_VERSE
-」
