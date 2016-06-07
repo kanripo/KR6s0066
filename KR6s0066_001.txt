@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:29.400102
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:28
 #+TITLE: 大明太宗文皇帝御製文殊讚
 #+PROPERTY: CBETA_ID G083n2073
 #+PROPERTY: ID KR6s0066
@@ -73,6 +73,5 @@
 　發啟如是妙菩提
 　一字遍包一切義
 　成就無始與無盡
-　永成佛道賴慈津
+　永成佛道賴慈津」
 #+END_VERSE
-」
